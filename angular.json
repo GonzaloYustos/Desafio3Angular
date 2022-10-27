@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "Desafio3Angular"
+  "defaultProject": "Desafio3Angular",
+  "cli": {
+    "analytics": false
+  }
 }
